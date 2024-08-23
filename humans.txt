@@ -1,0 +1,11 @@
+/* TEAM */
+Amateur Journalist: Concerned citizen
+Contact: disclosure@houtbaysleuth.co.za
+Twitter: @MichaelMacIverWatch
+From: Hout Bay
+
+/* SITE */
+Last update: 2024-08-23
+Language: English
+Doctype: HTML5
+IDE: Visual Studio Code

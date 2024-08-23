@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://houtbaysleuth.co.za/sitemap-index.xml
