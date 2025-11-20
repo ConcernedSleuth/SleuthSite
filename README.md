@@ -8,9 +8,9 @@ Come along with me as I explore local Hout Bay stories that often get overlooked
 
 ## Website
 
-[View the site here](https://houtbaysleuth.co.za/)
+[View the site here](https://houtbaysleuth.com/)
 
-For my own safety, I will keep my identity anonymous. [Michael Mac Iver](https://houtbaysleuth.co.za/person/MichaelMac.html) has a history of attacking those that come in contact with him, regardless of whose side they may be on.
+For my own safety, I will keep my identity anonymous. [Michael Mac Iver](https://houtbaysleuth.com/person/MichaelMac.html) has a history of attacking those that come in contact with him, regardless of whose side they may be on.
 
 This website is a great way for me to exercise some web design while it being on a topic I find extremely interesting. I can use this project to showcase my investigation and journalistic writing skills.
 

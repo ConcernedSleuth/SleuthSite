@@ -7,12 +7,12 @@
   <OutputEncoding>UTF-8</OutputEncoding>
   <AdultContent>false</AdultContent>
   <Developer>Concerned citizen</Developer>
-  <Contact>disclosure@houtbaysleuth.co.za</Contact>
+  <Contact>disclosure@houtbaysleuth.com</Contact>
   <Description>I want to find and uncover stories in my neighbourhood, talking to locals and hunting for stories that might otherwise slip through the cracks. Whether it’s an investigative piece on Michael Mac iver thinks it is okay to flash his neighbours or how Helen Snell convinced the SEBCID to pay for her lawsuits against her neighbours. Uncovering the truth one story at a time.</Description>
   <Tags>Michael Mac Iver Mac Iver Helen Snell Snell Hout Bay Cape Town</Tags>
-  <Image width="16" height="16" type="image/x-icon">https://houtbaysleuth.co.za//favicon.ico</Image>
-  <Url type="text/html" template="https://houtbaysleuth.co.za/?q={searchTerms}">
+  <Image width="16" height="16" type="image/x-icon">https://houtbaysleuth.com//favicon.ico</Image>
+  <Url type="text/html" template="https://houtbaysleuth.com/?q={searchTerms}">
     <Param name="searchTerms" value="{searchTerms}" />
   </Url>
-  <Url type="application/x-suggestions+json" template="https://houtbaysleuth.co.za/?q={searchTerms}" />
+  <Url type="application/x-suggestions+json" template="https://houtbaysleuth.com/?q={searchTerms}" />
 </OpenSearchDescription>
